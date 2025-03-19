@@ -2,6 +2,7 @@
 
 - This repo is a simple trading bot that buys a cryptocurrency from the best exchange.
 - It used testnet for Binance and OKX.
+- Follows DDD.
 
 # Preparation
 
